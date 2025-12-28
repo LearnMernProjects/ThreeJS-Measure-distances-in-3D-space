@@ -12,7 +12,8 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^7.2.4"
+    "vite": "^7.2.4",
+    "terser": "^5.29.0"
   },
   "dependencies": {
     "three": "^0.182.0"
